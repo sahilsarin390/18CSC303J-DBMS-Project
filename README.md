@@ -1,5 +1,7 @@
 # Blogzy
-(https://badges.pufler.dev/visits/sahilsarin390/18CSC303J-DBMS-Project)](https://badges.pufler.dev)
+
+[![Visits](https://badges.pufler.dev/visits/sahilsarin390/18CSC303J-DBMS-Project)](https://badges.pufler.dev)
+
 Mini project for DBMS Course.
 Initial build for a simple blogging website built using sql and php.
 
